@@ -7,6 +7,10 @@ It demonstrates the complete data science workflow using SpaceX launch data, inc
 The goal of this project is to predict the success of SpaceX Falcon 9 first stage landings.  
 The project combines multiple data science techniques to extract insights and build predictive models.
 
+## Dashboard Preview
+
+![SpaceX Dashboard](spacex_dash.png)
+
 ## Files in This Repository
 
 | File Name | Description |
@@ -19,7 +23,7 @@ The project combines multiple data science techniques to extract insights and bu
 | **06-Launch_Site_Location.ipynb** | Analyzes launch sites and plots geographical maps. |
 | **07-ML_Prediction.ipynb** | Builds machine learning models to predict launch success. |
 | **spacex_dash_app.py** | Interactive dashboard built using Plotly Dash. |
-| **spacex_dash.png** | Screenshot of the SpaceX dashboard. |
+| **spacex_dash.png** | Screenshot image of the interactive SpaceX dashboard. |
 | **my_data1.db** | SQLite database file containing the processed data. |
 | **DS-Capstone-Coursera.pdf** | Final project report in PDF format. |
 | **README.md** | Project overview and file guide. |
@@ -40,4 +44,4 @@ The project combines multiple data science techniques to extract insights and bu
 
 ## Author
 **Ali Hamza**  
-IBM Data Science Professional Certificate  
+IBM Data Science Professional Certificate
